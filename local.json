@@ -4,7 +4,7 @@
     "iso_url": "http://ftp.nluug.nl/os/Linux/distr/archlinux/iso/2019.12.01/archlinux-2019.12.01-x86_64.iso",
     "iso_checksum_url": "http://ftp.nluug.nl/os/Linux/distr/archlinux/iso/2019.12.01/sha1sums.txt",
     "iso_checksum_type": "sha1",
-    "disk_size": "20480",
+    "disk_size": "40960",
     "memory": "1024",
     "cpus": "2",
     "headless": "true",
